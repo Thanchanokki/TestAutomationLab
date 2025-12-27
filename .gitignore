@@ -10,3 +10,4 @@ output.xml
 
 # Word temp files
 ~$*.docx
+.DS_Store
