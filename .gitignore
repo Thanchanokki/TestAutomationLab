@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Robot Framework outputs
+results/
+report.html
+log.html
+output.xml
+*.png
+
+# Word temp files
+~$*.docx
